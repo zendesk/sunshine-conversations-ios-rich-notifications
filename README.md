@@ -2,6 +2,10 @@
 
 Before following the steps below, make sure that the [smooch-ios](https://github.com/smooch/smooch-ios) framework is installed in your application, and that you are on at least version 5.0.0.
 
+## Set up push notifications
+
+1. Configure Smooch to send push notifications by following [the steps](http://docs.smooch.io/ios/#configuring-push-notifications) in our docs
+
 ## Create the extension
 
 1. In Xcode, create a new extension target for your project (File > New > Target)
