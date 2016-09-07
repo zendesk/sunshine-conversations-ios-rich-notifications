@@ -43,7 +43,7 @@ Your extension folder should look like this when finished:
 
 That's it! Build and run your application, and Smooch push notifications should now render the conversation history when viewed.
 
-## Troubleshooting
+# Troubleshooting
 
 If you encounter one of the following errors when pushing your app to a device
 
@@ -52,3 +52,9 @@ If you encounter one of the following errors when pushing your app to a device
 > Code signing is required for product type 'App Extension' in SDK 'iOS 10.0'
 
 Navigate to your target in the project settings, select the "General" tab, and under the "Signing" header make sure there is a valid value set for the "Team" field.
+
+# License
+
+Copyright (c) 2016 Smooch Technologies Inc.
+All rights reserved.
+See [here](https://smooch.io/terms/) for license details.
